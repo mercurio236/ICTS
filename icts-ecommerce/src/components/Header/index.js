@@ -18,7 +18,7 @@ export default function Header() {
                 </Link>
             </div>
             <div className="carrinho">
-                <span>Carrinho 0</span>
+                <span>Carrinho 1</span>
             </div>
 
         </div>
